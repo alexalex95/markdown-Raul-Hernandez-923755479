@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Communicate using Markdown
+# Communicate using Markdown - Raul Hernandez 923755479
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
